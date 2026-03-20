@@ -12,9 +12,9 @@
 
 ## 🛠️ Tech Stack
 
-- Testes: Cypress | RobotFramework | k6 | Postman  
+- Testes: Funcionais | Regressão | E2E | API | Integração | Performance | Carga
 - Linguagens: JavaScript  
-- DevOps: Azure DevOps  
+- CI/CD: Azure DevOps (YAML) 
 - Banco de Dados: MongoDB | SQL  
 - Outros: Git | REST APIs  
 
