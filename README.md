@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-- Testes: Cypress | Selenium | k6 | Postman  
+- Testes: Cypress | RobotFramework | k6 | Postman  
 - Linguagens: JavaScript  
 - DevOps: Azure DevOps  
 - Banco de Dados: MongoDB | SQL  
