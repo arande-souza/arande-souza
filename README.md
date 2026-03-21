@@ -52,8 +52,3 @@
   </a>
 </p>
 
-###
-
-<img src="https://raw.githubusercontent.com/arande-souza/arande-souza/output/snake.svg" alt="Snake animation" />
-
-###
