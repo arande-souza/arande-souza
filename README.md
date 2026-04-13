@@ -3,7 +3,8 @@
 - 💻 QA Engineer em constante evolução rumo a SDET  
 - 🎓 Engenharia da Computação — UNIVESP  
 - 🎓 Processos de Produção — FATEC-SP  
-- 🔍 Apaixonada por qualidade de software, automação de testes e melhoria contínua.  
+- 🔍 Apaixonada por qualidade de software, automação de testes e melhoria contínua.
+- 🤖 Se você só executa, a IA te substitui. Se você decide, a IA te potencializa. 
 
 "Descobrir o inesperado é mais importante do que confirmar o já Conhecido!". 
 
